@@ -3,7 +3,7 @@ This plugin should make it easier to run the Veracode pipeline scan on Azure Dev
 In addition it will populate an additional tab on your pipeline run to display results in a more convinient way.  
 The plugin will automatically update itself every night if a new version of the piepline scan jar is published.  
   
-
+q
 Please reference the Veracode Help Ceneter for further information.  
 https://help.veracode.com/r/c_about_pipeline_scan  
 
